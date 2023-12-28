@@ -1,0 +1,19 @@
+h1 {
+    margin-bottom: 20px;
+    font-weight: 100;
+}
+header {
+    background: url(/src/images/pic-1.jpg);
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255, 0.5);
+  }
+
+header p {
+    margin-bottom: 10px;
+}

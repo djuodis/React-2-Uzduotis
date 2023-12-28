@@ -1,0 +1,25 @@
+footer {
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+    width: 73%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+img {
+    width: 310px;
+    height: 200px;
+}
+
+.img p {
+    margin-top: -5px;
+    background: white;
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 12px;
+    display: grid;
+
+}
